@@ -10,5 +10,9 @@ public class Calculator {
         int sub = num1 - num2;
         return sub;
     }
+
+    public int mul(int num1, int num2){
+        return num1 * num2;
+    }
 }
 
